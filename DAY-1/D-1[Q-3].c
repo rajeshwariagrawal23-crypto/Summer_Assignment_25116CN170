@@ -9,4 +9,5 @@ int main()
         fact = fact * i;
     }
     printf("The factorial of %d is equal to %d",N,fact);
+        return 0;
 }

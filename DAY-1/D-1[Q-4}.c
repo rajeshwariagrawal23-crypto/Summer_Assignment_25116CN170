@@ -15,5 +15,6 @@ int main()
         count == 1;
     }
     printf("Count of digits in %d are %d", digit, count);
+    return 0;
 
 }
