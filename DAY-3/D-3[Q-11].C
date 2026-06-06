@@ -1,3 +1,4 @@
+//program to find the GCD of two numbers
 #include <stdio.h>
 int main()
 {
