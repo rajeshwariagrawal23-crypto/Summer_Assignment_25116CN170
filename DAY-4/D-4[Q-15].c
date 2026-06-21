@@ -8,7 +8,7 @@ void main()
     temp = n;
     while (temp != 0)
     {  
-          i = temp % 10;
+        i = temp % 10;
         sum = sum + (i * i * i);
         temp = temp / 10;
     }
